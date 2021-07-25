@@ -452,7 +452,7 @@
   },
   "box": {
     "name": "Horadric Cube",
-    "type": "ques",
+    "type": "box",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1122,7 +1122,7 @@
     "levelReq": 0
   },
   "r01": {
-    "name": "El Rune",
+    "name": "ÿc8El Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1133,7 +1133,7 @@
     "levelReq": 11
   },
   "r02": {
-    "name": "Eld Rune",
+    "name": "ÿc8Eld Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1144,7 +1144,7 @@
     "levelReq": 11
   },
   "r03": {
-    "name": "Tir Rune",
+    "name": "ÿc8Tir Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1155,7 +1155,7 @@
     "levelReq": 13
   },
   "r04": {
-    "name": "Nef Rune",
+    "name": "ÿc8Nef Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1166,7 +1166,7 @@
     "levelReq": 13
   },
   "r05": {
-    "name": "Eth Rune",
+    "name": "ÿc8Eth Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1177,7 +1177,7 @@
     "levelReq": 15
   },
   "r06": {
-    "name": "Ith Rune",
+    "name": "ÿc8Ith Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1188,7 +1188,7 @@
     "levelReq": 15
   },
   "r07": {
-    "name": "Tal Rune",
+    "name": "ÿc8Tal Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1199,7 +1199,7 @@
     "levelReq": 17
   },
   "r08": {
-    "name": "Ral Rune",
+    "name": "ÿc8Ral Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1210,7 +1210,7 @@
     "levelReq": 19
   },
   "r09": {
-    "name": "Ort Rune",
+    "name": "ÿc8Ort Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1221,7 +1221,7 @@
     "levelReq": 21
   },
   "r10": {
-    "name": "Thul Rune",
+    "name": "ÿc8Thul Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1232,7 +1232,7 @@
     "levelReq": 23
   },
   "r11": {
-    "name": "Amn Rune",
+    "name": "ÿc8Amn Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1243,7 +1243,7 @@
     "levelReq": 25
   },
   "r12": {
-    "name": "Sol Rune",
+    "name": "ÿc8Sol Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1254,7 +1254,7 @@
     "levelReq": 27
   },
   "r13": {
-    "name": "Shael Rune",
+    "name": "ÿc8Shael Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1265,7 +1265,7 @@
     "levelReq": 29
   },
   "r14": {
-    "name": "Dol Rune",
+    "name": "ÿc8Dol Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1276,7 +1276,7 @@
     "levelReq": 31
   },
   "r15": {
-    "name": "Hel Rune",
+    "name": "ÿc8Hel Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1287,7 +1287,7 @@
     "levelReq": 0
   },
   "r16": {
-    "name": "Io Rune",
+    "name": "ÿc8Io Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1298,7 +1298,7 @@
     "levelReq": 35
   },
   "r17": {
-    "name": "Lum Rune",
+    "name": "ÿc8Lum Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1309,7 +1309,7 @@
     "levelReq": 37
   },
   "r18": {
-    "name": "Ko Rune",
+    "name": "ÿc8Ko Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1320,7 +1320,7 @@
     "levelReq": 39
   },
   "r19": {
-    "name": "Fal Rune",
+    "name": "ÿc8Fal Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1331,7 +1331,7 @@
     "levelReq": 41
   },
   "r20": {
-    "name": "Lem Rune",
+    "name": "ÿc8Lem Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1342,7 +1342,7 @@
     "levelReq": 43
   },
   "r21": {
-    "name": "Pul Rune",
+    "name": "ÿc8Pul Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1353,7 +1353,7 @@
     "levelReq": 45
   },
   "r22": {
-    "name": "Um Rune",
+    "name": "ÿc8Um Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1364,7 +1364,7 @@
     "levelReq": 47
   },
   "r23": {
-    "name": "Mal Rune",
+    "name": "ÿc8Mal Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1375,7 +1375,7 @@
     "levelReq": 49
   },
   "r24": {
-    "name": "Ist Rune",
+    "name": "ÿc8Ist Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1386,7 +1386,7 @@
     "levelReq": 51
   },
   "r25": {
-    "name": "Gul Rune",
+    "name": "ÿc8Gul Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1397,7 +1397,7 @@
     "levelReq": 53
   },
   "r26": {
-    "name": "Vex Rune",
+    "name": "ÿc8Vex Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1408,7 +1408,7 @@
     "levelReq": 55
   },
   "r27": {
-    "name": "Ohm Rune",
+    "name": "ÿc8Ohm Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1419,7 +1419,7 @@
     "levelReq": 57
   },
   "r28": {
-    "name": "Lo Rune",
+    "name": "ÿc8Lo Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1430,7 +1430,7 @@
     "levelReq": 59
   },
   "r29": {
-    "name": "Sur Rune",
+    "name": "ÿc8Sur Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1441,7 +1441,7 @@
     "levelReq": 61
   },
   "r30": {
-    "name": "Ber Rune",
+    "name": "ÿc8Ber Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1452,7 +1452,7 @@
     "levelReq": 63
   },
   "r31": {
-    "name": "Jah Rune",
+    "name": "ÿc8Jah Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1463,7 +1463,7 @@
     "levelReq": 65
   },
   "r32": {
-    "name": "Cham Rune",
+    "name": "ÿc8Cham Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1474,7 +1474,7 @@
     "levelReq": 67
   },
   "r33": {
-    "name": "Zod Rune",
+    "name": "ÿc8Zod Rune",
     "type": "rune",
     "tier": 0,
     "maxSockets": 0,
@@ -1530,7 +1530,7 @@
   },
   "pk1": {
     "name": "Key of Terror",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1541,7 +1541,7 @@
   },
   "pk2": {
     "name": "Key of Hate",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1552,7 +1552,7 @@
   },
   "pk3": {
     "name": "Key of Destruction",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1563,7 +1563,7 @@
   },
   "dhn": {
     "name": "Diablo's Horn",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1574,7 +1574,7 @@
   },
   "bey": {
     "name": "Baal's Eye",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1585,7 +1585,7 @@
   },
   "mbr": {
     "name": "Mephisto's Brain",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1596,7 +1596,7 @@
   },
   "toa": {
     "name": "Token of Absolution",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1607,7 +1607,7 @@
   },
   "tes": {
     "name": "Twisted Essence of Suffering",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1618,7 +1618,7 @@
   },
   "ceh": {
     "name": "Charged Essence of Hatred",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1629,7 +1629,7 @@
   },
   "bet": {
     "name": "Burning Essence of Terror",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1640,7 +1640,7 @@
   },
   "fed": {
     "name": "Festering Essence of Destruction",
-    "type": "ques",
+    "type": "ubr",
     "tier": 0,
     "maxSockets": 0,
     "indestructible": true,
@@ -1650,7 +1650,7 @@
     "levelReq": 0
   },
   "std": {
-    "name": "Standard of Heroes",
+    "name": "ÿc4Standard of Heroes",
     "type": "ques",
     "tier": 0,
     "maxSockets": 0,
@@ -1659,5 +1659,896 @@
     "height": 1,
     "qlevel": 90,
     "levelReq": 90
+  },
+  "wss": {
+    "name": "ÿc;Worldstone Shardÿc/",
+    "type": "corr",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 60,
+    "levelReq": 0
+  },
+  "imma": {
+    "name": "ÿc4Arcane Orb",
+    "type": "imma",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 0
+  },
+  "imrn": {
+    "name": "ÿc4Demonic Cube",
+    "type": "imrn",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 0
+  },
+  "imra": {
+    "name": "ÿc4Zakarum Orb",
+    "type": "imra",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 0
+  },
+  "rera": {
+    "name": "ÿc4Horadrim Orb",
+    "type": "rera",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 0
+  },
+  "scou": {
+    "name": "ÿc4Orb of Destruction",
+    "type": "scou",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 0
+  },
+  "upma": {
+    "name": "ÿc4Angelic Orb",
+    "type": "upma",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 0
+  },
+  "upmp": {
+    "name": "ÿc4Cartographer's Orb",
+    "type": "upmp",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 0
+  },
+  "scrb": {
+    "name": "ÿc4Horadrim Scarab",
+    "type": "scrb",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 87,
+    "levelReq": 0
+  },
+  "lbox": {
+    "name": "ÿc4Larzuk's Puzzlebox",
+    "type": "lbox",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "gzvs": {
+    "name": "Flawless Amethyst",
+    "type": "gg3a",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 15
+  },
+  "gpvs": {
+    "name": "Perfect Amethyst",
+    "type": "gg4a",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 18
+  },
+  "glys": {
+    "name": "Flawless Topaz",
+    "type": "gg3t",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 15
+  },
+  "gpys": {
+    "name": "Perfect Topaz",
+    "type": "gg4t",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 18
+  },
+  "glbs": {
+    "name": "Flawless Sapphire",
+    "type": "gg3s",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 15
+  },
+  "gpbs": {
+    "name": "Perfect Sapphire",
+    "type": "gg4s",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 18
+  },
+  "glgs": {
+    "name": "Flawless Emerald",
+    "type": "gg3e",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 15
+  },
+  "gpgs": {
+    "name": "Perfect Emerald",
+    "type": "gg4e",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 18
+  },
+  "glrs": {
+    "name": "Flawless Ruby",
+    "type": "gg3r",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 15
+  },
+  "gprs": {
+    "name": "Perfect Ruby",
+    "type": "gg4r",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 18
+  },
+  "glws": {
+    "name": "Flawless Diamond",
+    "type": "gg3d",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 15
+  },
+  "gpws": {
+    "name": "Perfect Diamond",
+    "type": "gg4d",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 18
+  },
+  "skls": {
+    "name": "Flawless Skull",
+    "type": "gg3z",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 15
+  },
+  "skzs": {
+    "name": "Perfect Skull",
+    "type": "gg4z",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 0,
+    "levelReq": 18
+  },
+  "r01s": {
+    "name": "ÿc8El Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 11,
+    "levelReq": 11
+  },
+  "r02s": {
+    "name": "ÿc8Eld Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 11,
+    "levelReq": 11
+  },
+  "r03s": {
+    "name": "ÿc8Tir Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 13,
+    "levelReq": 13
+  },
+  "r04s": {
+    "name": "ÿc8Nef Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 13,
+    "levelReq": 13
+  },
+  "r05s": {
+    "name": "ÿc8Eth Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 15,
+    "levelReq": 15
+  },
+  "r06s": {
+    "name": "ÿc8Ith Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 15,
+    "levelReq": 15
+  },
+  "r07s": {
+    "name": "ÿc8Tal Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 17,
+    "levelReq": 17
+  },
+  "r08s": {
+    "name": "ÿc8Ral Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 19,
+    "levelReq": 19
+  },
+  "r09s": {
+    "name": "ÿc8Ort Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 21,
+    "levelReq": 21
+  },
+  "r10s": {
+    "name": "ÿc8Thul Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 23,
+    "levelReq": 23
+  },
+  "r11s": {
+    "name": "ÿc8Amn Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 25,
+    "levelReq": 25
+  },
+  "r12s": {
+    "name": "ÿc8Sol Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 27,
+    "levelReq": 27
+  },
+  "r13s": {
+    "name": "ÿc8Shael Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 29,
+    "levelReq": 29
+  },
+  "r14s": {
+    "name": "ÿc8Dol Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 31,
+    "levelReq": 31
+  },
+  "r15s": {
+    "name": "ÿc8Hel Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 33,
+    "levelReq": 0
+  },
+  "r16s": {
+    "name": "ÿc8Io Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 35,
+    "levelReq": 35
+  },
+  "r17s": {
+    "name": "ÿc8Lum Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 37,
+    "levelReq": 37
+  },
+  "r18s": {
+    "name": "ÿc8Ko Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 39,
+    "levelReq": 39
+  },
+  "r19s": {
+    "name": "ÿc8Fal Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 41,
+    "levelReq": 41
+  },
+  "r20s": {
+    "name": "ÿc8Lem Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 43,
+    "levelReq": 43
+  },
+  "r21s": {
+    "name": "ÿc8Pul Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 45,
+    "levelReq": 45
+  },
+  "r22s": {
+    "name": "ÿc8Um Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 47,
+    "levelReq": 47
+  },
+  "r23s": {
+    "name": "ÿc8Mal Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 49,
+    "levelReq": 49
+  },
+  "r24s": {
+    "name": "ÿc8Ist Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 51,
+    "levelReq": 51
+  },
+  "r25s": {
+    "name": "ÿc8Gul Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 53,
+    "levelReq": 53
+  },
+  "r26s": {
+    "name": "ÿc8Vex Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 55,
+    "levelReq": 55
+  },
+  "r27s": {
+    "name": "ÿc8Ohm Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 57,
+    "levelReq": 57
+  },
+  "r28s": {
+    "name": "ÿc8Lo Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 59,
+    "levelReq": 59
+  },
+  "r29s": {
+    "name": "ÿc8Sur Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 61,
+    "levelReq": 61
+  },
+  "r30s": {
+    "name": "ÿc8Ber Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 63,
+    "levelReq": 63
+  },
+  "r31s": {
+    "name": "ÿc8Jah Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 65,
+    "levelReq": 65
+  },
+  "r32s": {
+    "name": "ÿc8Cham Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 67,
+    "levelReq": 67
+  },
+  "r33s": {
+    "name": "ÿc8Zod Rune",
+    "type": "runs",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 69,
+    "levelReq": 69
+  },
+  "ubtm": {
+    "name": "ÿc8Pandemonium Talisman",
+    "type": "ubr",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 99,
+    "levelReq": 0
+  },
+  "dcma": {
+    "name": "ÿc8Vision of Terror",
+    "type": "ubr",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 99,
+    "levelReq": 0
+  },
+  "dcbl": {
+    "name": "ÿc8Pure Demonic Essence",
+    "type": "ubr",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 75,
+    "levelReq": 0
+  },
+  "dcho": {
+    "name": "ÿc8Black Soulstone",
+    "type": "ubr",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 75,
+    "levelReq": 0
+  },
+  "dcso": {
+    "name": "ÿc8Prime Evil Soul",
+    "type": "ubr",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 75,
+    "levelReq": 0
+  },
+  "t11": {
+    "name": "Ruins of Viz-Jun Map",
+    "type": "t1m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t12": {
+    "name": "Horazon's Memory Map",
+    "type": "t1m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t13": {
+    "name": "Bastion Keep Map",
+    "type": "t1m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t21": {
+    "name": "Phlegethon Map",
+    "type": "t2m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t22": {
+    "name": "Torajan Jungle Map",
+    "type": "t2m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t23": {
+    "name": "Arreat Battlefield Map",
+    "type": "t2m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t24": {
+    "name": "Tomb of Zoltun Kulle Map",
+    "type": "t2m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t25": {
+    "name": "Sewers of Harrogath Map",
+    "type": "t2m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t31": {
+    "name": "River of Blood Map",
+    "type": "t3m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t32": {
+    "name": "Throne of Insanity Map",
+    "type": "t3m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t33": {
+    "name": "Reziarfg's Lair Map",
+    "type": "t3m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t34": {
+    "name": "Ancestral Trial Map",
+    "type": "t3m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t35": {
+    "name": "Blood Moon Map",
+    "type": "t3m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t36": {
+    "name": "Fall of Caldeum Map",
+    "type": "t3m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t37": {
+    "name": "Pandemonium Citadel Map",
+    "type": "t3m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t41": {
+    "name": "Cathedral of Light Map",
+    "type": "t4m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t43": {
+    "name": "Plains of Torment Map",
+    "type": "t4m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t42": {
+    "name": "Desert Map",
+    "type": "t4m",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
+  },
+  "t61": {
+    "name": "t61",
+    "type": "pvpm",
+    "tier": 0,
+    "maxSockets": 0,
+    "indestructible": true,
+    "width": 1,
+    "height": 1,
+    "qlevel": 80,
+    "levelReq": 0
   }
 }
