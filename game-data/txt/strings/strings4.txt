@@ -353,7 +353,7 @@ skillxld41
 skillxan41	 
 skillxname42	 
 skillxsd42	 
-skillxld42	of all nearby enemies\ncreates an electrical field that reduces life
+skillxld42	lowers enemy lightning resistances for a short duration\nof all nearby enemies\ncreates an electrical field that reduces life
 skillxan42	 
 skillxname43	 
 skillxsd43	 
@@ -681,7 +681,7 @@ skillxld123
 skillxan123	 
 skillxname124	 
 skillxsd124	 
-skillxld124	you life and mana\nthe souls of slain enemies to give\nwhen active, aura attempts to redeem
+skillxld124	the souls of slain enemies to give you mana\nwhen active, aura attempts to redeem
 skillxan124	 
 skillxname125	 
 skillxsd125	 
@@ -901,11 +901,11 @@ MercX164	Alban
 MercX165	Barloc
 MercX166	Bill
 MercX167	Theodoric
-r16	Io Rune
+r16	ÿc8Io Rune
 r16L	Io
-r13	Shael Rune
+r13	ÿc8Shael Rune
 r13L	Shael
-r31	Jah Rune
+r31	ÿc8Jah Rune
 r31L	Jah
 DarkStalker	Dark Stalker
 VileArcher	Vile Archer
@@ -1016,7 +1016,7 @@ Fiendra	Fiend
 Wraithra	Wraith
 Fiend	Fiend
 Wraith	Wraith
-D2bnetHelp10	�c3Blue Text�c4 represents actions that have been taken by people in the chat Channel.
+D2bnetHelp10	ÿc3Blue Textÿc4 represents actions that have been taken by people in the chat Channel.
 ItemStats1r	Chance to Block: 
 x	Server is Full
 x	No new games can be created right now, Please Join a game or try later.
@@ -1043,7 +1043,7 @@ StrSkill61	Multiple Hits
 D2bnetHelp13c	/reply
 D2bnethelp13d	Allows you to reply to a whisper without typing the account name
 D2bnetHelp52	/whisper, /msg, /reply
-D2bnetHelp10a	�c9 Yellow Text�c4 represents special messages sent directly from battle.net
+D2bnetHelp10a	ÿc9 Yellow Textÿc4 represents special messages sent directly from battle.net
 BnetnewGameTime	Game Time:
 D2bnetHelp12c	When using advanced commands, you may also use character names for people in the same Realm, and character names @Realm for people in another Realm.
 D2bnetHelp12d	You must use *account names for anyone on battle.net including people in a different game such as Starcraft.
@@ -1059,8 +1059,8 @@ x	If the current gateway does not best represent your location, select another B
 x	CHANGE REALM
 x	Current Realm
 x	A character named '%s' already exists in this Realm.
-D2bnetHelp6a	�c5Gray Text�c4 also represents actions that have been taken by people in the chat Channel.
-D2bnetHelp10aPatch	�c3Blue Text�c4 represents special messages sent directly from battle.net or messages from a Blizzard Representative.
+D2bnetHelp6a	ÿc5Gray Textÿc4 also represents actions that have been taken by people in the chat Channel.
+D2bnetHelp10aPatch	ÿc3Blue Textÿc4 represents special messages sent directly from battle.net or messages from a Blizzard Representative.
 x	SEND
 x	PASSWORD WARNING
 x	You cannot send your password to another user on Battle.net. Blizzard will never ask you for your password for any reason.
@@ -1087,9 +1087,9 @@ champghostlyX	Ghostly
 champfanaticX	Fanatic
 champpossessedX	Possessed
 champberserkX	Berserker
-PalMercExST1X	Defensive
-PalMercEXST3X	Offensive
-PalMercEXST4X	Combat
+PalMercExST1X	Defensive (Defiance)
+PalMercEXST3X	Offensive (Blessed Aim)
+PalMercEXST4X	Combat (Thorns)
 increaseswithplaylevelX	(Based on Character Level)
 RankX	Rank
 x	Enter a valid email address.
@@ -1151,14 +1151,14 @@ pk3	Key of Destruction
 dhn	Diablo's Horn
 bey	Baal's Eye
 mbr	Mephisto's Brain
-std	Standard of Heroes
+std	ÿc4Standard of Heroes
 Hellfire Torch	Hellfire Torch
 Lilith	Lilith
 Pandemonium Run 1	Matron's Den
 Pandemonium Run 2	Forgotten Sands
 Pandemonium Run 3	Furnace of Pain
 ModStre8b	to Assassin Skills
-skillld146	enemies' defense rating and damage\nfearsome cry that decreases
+skillld146	enemies defense rating and physical damage resistance\nfearsome cry that decreases
 skillld65	by piercing enemies' resistances to cold\npassive - increases the damage of your cold attacks
 x	The CD-Key you are currently using is disabled from playing realm games. You may continue playing the game in Single Player and Open Battle.net.
 x	Your connection has been temporarily restricted from this realm. Please try to log in at another time.
@@ -1178,3 +1178,234 @@ x	Message filter added.
 x	Unable to add message filter.
 x	Message filter removed.
 x	Unable to remove message filter.
+Blink	Blink
+splash3	Melee Attacks Deal Splash Damage
+StrCorrupted	ÿc1Corrupted
+StrHeroic	ÿc:Heroic
+wss	ÿc;Worldstone Shardÿc/
+StrCorruptNum	Corrupt
+BloodRavenZombie	Revived Dead
+StrEndless	ÿc0Quiver
+BlinkDesc	instantly moves to a destination
+StrUIArcher	Archer
+NecroArcher	Necroarcher
+MapPlayHave	Players have
+MapMonHave	Monsters have
+MapGlobHas	Map has
+MapGlobLevel	to Area Level
+MapGlobDensity	ÿc0Monster Density:ÿc3
+MapGlobMonRarity	ÿc0Monster Rarity:ÿc3
+MapMonVelocity	increased Velocity
+MapMonCurse	Curse Duration Reduction
+imma	ÿc4Arcane Orb
+imrn	ÿc4Demonic Cube
+imra	ÿc4Zakarum Orb
+rera	ÿc4Horadrim Orb
+scou	ÿc4Orb of Destruction
+upma	ÿc4Angelic Orb
+upmp	ÿc4Cartographer's Orb
+Champion's	Champion's
+Magic	Magic
+Arcane	Arcane
+Ancient	Ancient
+Silver	Silver
+Shining	Shining
+Opulent	Opulent
+Fast	Fast
+Speedy	Speedy
+Ludicrous	Ludicrous
+Large	Large
+Huge	Huge
+Colossal	Colossal
+Strong	Strong
+Mighty	Mighty
+Formidable	Formidable
+Splashing	Splashing
+Bloody	Bloody
+Gory	Gory
+Sanguinary	Sanguinary
+Unhealthy	Unhealthy
+Sickly	Sickly
+Diseased	Diseased
+Crushing	Crushing
+Smashing	Smashing
+Obliterating	Obliterating
+of Warding	of Warding
+of Guarding	of Guarding
+of Preservation	of Preservation
+of Cracking	of Cracking
+of Crumbling	of Crumbling
+of Disintegration	of Disintegration
+Promoted	Promoted
+Elevated	Elevated
+Ascended	Ascended
+of Resilience	of Resilience
+of Hardiness	of Hardiness
+of Fortitude	of Fortitude
+of Imbalance	of Imbalance
+of Inequality	of Inequality
+of Uneveness	of Uneveness
+of Fumbling	of Fumbling
+of Bumbling	of Bumbling
+of Blundering	of Blundering
+of Sturdiness	of Sturdiness
+of Stability	of Stability
+of Vigor	of Vigor
+of Crimson	of Crimson
+of Tangerine	of Tangerine
+of Opal	of Opal
+of Azure	of Azure
+of Protection	of Protection
+of Security	of Security
+of Safety	of Safety
+of Swiftness	of Swiftness
+of Quickness	of Quickness
+of Velocity	of Velocity
+of Regeneration	of Regeneration
+of Renewal	of Renewal
+of Rebirth	of Rebirth
+of the Leech	of the Leech
+of the Parasite	of the Parasite
+of the Bloodsucker	of the Bloodsucker
+of Health	of Health
+of Vitality	of Vitality
+of Vim	of Vim
+of Hindrance	of Hindrance
+of Aversion	of Aversion
+of Permeability	of Permeability
+ModStrRepCharge1	Replenish 1 Charge in 3 Seconds
+MapGlobMF	ÿc0Magic Find:ÿc3
+MapGlobExp	ÿc0Experience:ÿc3
+MapGlobGF	ÿc0Gold Find:ÿc3
+MapGlobMFGF	ÿc0Magic and Gold Find:ÿc3
+MapTier	Tier:
+MapMon	Monster's
+MapMonSplash	Melee Attacks Deal Splash Damage
+MapEnhancedDmg	Enhanced Physical Damage
+MapMonTake	Monsters take
+MapPlayAllRes	to All Resistances
+MapPlayBlock	Chance to Block
+MapFlatPhysRed	Reduced Physical Damage
+MapAtkCastRate	Increased Cast and Attack Speed
+MapMaxHP	Increased Maximum Life
+MapPierceAR	Attack Rating and Chance to Pierce
+ModStrRepCharge2	Charges per 100 seconds (do math)
+ModStrFireskills	to Fire Skills
+ModStrColdskills	to Cold Skills
+ModStrLightningskills	to Lightning Skills
+ModStrPoisonskills	to Poison Skills
+ModStrMagicskills	to Magic Skills
+ModPierceChance	Chance to Pierce
+ModLeapSpeed	to Leap and Leap Attack Movement Speed
+ModReduceCurseDuration	Reduced Curse Duration
+ModItemHPaH	Life after each Hit
+StrPhysPierce	Physical Pierce: 
+ChainLtngSentry	Chain Lightning Sentry
+ChainLtngSentrySD	a trap that emits chain lightning
+ChainLtngSentryLD	to scorch passing enemies\na trap that shoots chain lightning
+ChainLtngSentryS	Chain Ltng. Sent.
+MapPhysExtraLtng	of Physical Damage as Extra Lightning Damage
+MapPhysExtraCold	of Physical Damage as Extra Cold Damage
+MapPhysExtraFire	of Physical Damage as Extra Fire Damage
+MapPhysExtraPois	of Physical Damage as Extra Poison Damage over 5 Seconds
+MapPhysExtraMag	of Physical Damage as Extra Magic Damage
+MapAddMonDoll	Map contains Stygian Dolls
+MapAddMonSucc	Map contains Succubus Witches
+MapAddMonVamp	Map contains Vampire Lords
+MapAddMonCow	Map contains Hell Bovines
+MapAddMonHorde	Map contains Reanimated Horde
+MapAddMonGhost	Map contains Ghosts
+Sparking	Sparking
+Thunderous	Thunderous
+Chilling	Chilling
+Glacial	Glacial
+Molten	Molten
+Volcanic	Volcanic
+Poisonous	Poisonous
+Plagued	Plagued
+Runic	Runic
+Taboo	Taboo
+Occult	Occult
+Stygian	Stygian
+Lustful	Lustful
+Vampiric	Vampiric
+Bovine	Bovine
+Reanimated	Reanimated
+Ghastly	Ghastly
+StrExtraBonespear	Bonespear Now Fires
+StrExtraBonespear2	Additional Spears
+StrExtraRevives	You May Now Summon
+StrExtraRevives2	Additional Revives
+ModPhysPierce	to Enemy Physical Resistance
+Infernal Spire	Infernal Spire
+Wisp Boss	ÿc4Canight The Corrupted
+Megademon Boss	ÿc4Lieutenant of Sin
+Fingermage Boss	ÿc4The Synthetic One
+immune minion	Immune while Boss is Alive
+Unraveler Boss	ÿc4Karvarousku the Cartographer
+ModVelocity	to Velocity
+lbox	ÿc4Larzuk's Puzzlebox
+StrNearbyEnemies	Nearby Enemies: 
+StrFirstHitBonus	First Hit Bonus Damage: 
+ForceMove	Move Only
+ForceMoveShort	Move to target location
+ForceMoveLong	Move to target location
+StrAvunaos	ÿc4Avunaos the Rotten
+StrBelial	ÿc4Belial Lord of Lies
+StrBolts	Bolts Fired: 
+StrLifeHeal	Life Recovered: 
+ubtm	ÿc8Pandemonium Talisman
+dcma	ÿc8Vision of Terror
+dcho	ÿc8Black Soulstone
+dcbl	ÿc8Pure Demonic Essence
+dcso	ÿc8Prime Evil Soul
+uberdiablonew	ÿc4Diablo
+Wisp Minion1	ÿc4Madness
+Wisp Minion2	ÿc4Hysteria
+StrHolyFireDmg	Holy Fire: 
+StrFireDamage	Fire Damage: 
+MapMonIgnore	Monsters ignore
+MapMonFirePierce	of Enemy Fire Resistance
+MapMonLtngPierce	of Enemy Lightning Resistance
+MapMonColdPierce	of Enemy Cold Resistance
+MapMonPoisPierce	of Enemy Poison Resistance
+Eskillpoison1	Charge 1 - poison bolt damage: 
+Eoveronesecond	 over 1 second
+Eskillpoison3	Charge 3 - poison cloud damage: 
+ChargeUpSkillDesc	can only be used with claw and dagger class weapons\nof charges you have available and deplete on the third attack\nconsecutive hits add bonuses based on the amount\n\nCharge-up Skill
+StrExtraSpirits	Additional Spirit
+ArcaneBoss	ÿc4Deathmaiden Madinsane
+BastionBoss	ÿc4Johnathan The Damned
+CowBoss	ÿc4The Cow Queen
+IceBoss	ÿc4Nathkill The Numb
+TombBoss	ÿc4Toadflax the Tainted
+SewerBoss	ÿc4The Mad Philosopher
+SiegeBoss	ÿc4Elemgaard The Armorsmith
+ThroneBoss	ÿc4Indio The Insane
+torajanBoss	ÿc4The Great Worm
+ScarabDesc	ÿc1Dangerous Group Content\nÿc0Cube with a Tier 3 map to create a Dungeon
+MapAtkCastSpeed	Attack and Cast Speed
+AddFireDmg	Added Fire Damage: 
+AddColdDmg	Added Cold Damage: 
+AddLtngDmg	Added Lightning Damage: 
+StrEnemyPoisonRes	Enemy Poison Resistance: 
+ChargeUpSkillDesc2	can only be used with dual claw weapons\nof charges you have available and deplete on the third attack\nconsecutive hits add bonuses based on the amount\n\nCharge-up Skill
+ThornsATD	Attacker Takes Damage of 
+UberTristDesc	Use at the blood fountain in Harrogath
+DCloneDesc	Use at the blood fountain in Harrogath
+GustReduction	Gust's Cooldown Is Reduced By 2 Seconds
+ExtraSkeleWar	You May Summon 2 Additional Skeleton Warriors
+ExtraSkeleMage	You May Summon 2 Additional Skeleton Mages
+ExtraHydra	You May Summon 1 Additional Hydra
+ExtraValk	You May Summon 1 Additional Valkyrie
+joustreduction	Joust's Cooldown Is Reduced By 0.5 Seconds
+ExtraSkeleMageGrim	You May Summon 6 Additional Skeleton Mages
+ModitemdamMagisk	To Magic Skill Damage
+bloodwarplifereduction	Bloodwarp Costs 2% Less Health
+StrJoustReducedCd	Cooldown reduced by 0.1 per base point
+StrMultishotPierce	damage every time they pierce\nArrows deal 50% reduced
+act2hireTraitorBoss	ÿc4Waheed The Traitor
+PandemoniumBoss	ÿc4Dark Commander Alma
+spiderboss	ÿc4Reziarfg
+MapAddMonSouls	Map contains Burning Souls
+MapAddMonFetish	Map contains Fetishes

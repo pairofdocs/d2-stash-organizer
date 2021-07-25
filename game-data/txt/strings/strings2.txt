@@ -437,41 +437,41 @@ hrb	Herb
 cm1	Small Charm
 cm2	Large Charm
 cm3	Grand Charm
-Charmdes	Keep in Inventory to Gain Bonus
+Charmdes	Active in Charm Inventory
 ice	Keep it to thaw Anya\nMalah's Potion
-r33	Zod Rune
-r32	Cham Rune
-r31	Jo Rune
-r30	Ber Rune
-r29	Sur Rune
-r28	Lo Rune
-r27	Ohm Rune
-r26	Vex Rune
-r25	Gul Rune
-r24	Ist Rune
-r23	Mal Rune
-r22	Um Rune
-r21	Pul Rune
-r20	Lem Rune
-r19	Fal Rune
-r18	Ko Rune
-r17	Lum Rune
-r16	Po Rune
-r15	Hel Rune
-r14	Dol Rune
-r13	Shae Rune
-r12	Sol Rune
-r11	Amn Rune
-r10	Thul Rune
-r09	Ort Rune
-r08	Ral Rune
-r07	Tal Rune
-r06	Ith Rune
-r05	Eth Rune
-r04	Nef Rune
-r03	Tir Rune
-r02	Eld Rune
-r01	El Rune
+r33	ÿc8Zod Rune
+r32	ÿc8Cham Rune
+r31	ÿc8Jo Rune
+r30	ÿc8Ber Rune
+r29	ÿc8Sur Rune
+r28	ÿc8Lo Rune
+r27	ÿc8Ohm Rune
+r26	ÿc8Vex Rune
+r25	ÿc8Gul Rune
+r24	ÿc8Ist Rune
+r23	ÿc8Mal Rune
+r22	ÿc8Um Rune
+r21	ÿc8Pul Rune
+r20	ÿc8Lem Rune
+r19	ÿc8Fal Rune
+r18	ÿc8Ko Rune
+r17	ÿc8Lum Rune
+r16	ÿc8Po Rune
+r15	ÿc8Hel Rune
+r14	ÿc8Dol Rune
+r13	ÿc8Shae Rune
+r12	ÿc8Sol Rune
+r11	ÿc8Amn Rune
+r10	ÿc8Thul Rune
+r09	ÿc8Ort Rune
+r08	ÿc8Ral Rune
+r07	ÿc8Tal Rune
+r06	ÿc8Ith Rune
+r05	ÿc8Eth Rune
+r04	ÿc8Nef Rune
+r03	ÿc8Tir Rune
+r02	ÿc8Eld Rune
+r01	ÿc8El Rune
 r33L	Zod
 r32L	Cham
 r31L	Jo
@@ -601,7 +601,7 @@ Runeword93	Oblivion
 Runeword94	Obsession
 Runeword95	Passion
 Runeword96	Patience
-Runeword97	Patter
+Runeword97	Pattern
 Runeword98	Peace
 Runeword99	Voice of Reason
 Runeword100	Penitence
@@ -1204,8 +1204,8 @@ Of self-repair	Self-Repair
 of Dawn	of Dawn
 of Inertia	of Inertia
 of Joyfulness	of Joyfulness
-ModStre8a	to Druid Skills
-ModStre8b	to Assassin Skills
+ModStre8a	to Druid Skill Levels
+ModStre8b	to Assassin Skill Levels
 ModStre8c	 Sockets
 ModStre8d	 to Attack Rating vs. Demons
 ModStre8e	 to Attack Rating vs. Undead
@@ -1881,7 +1881,7 @@ McAuley's Paragon	Sander's Paragon
 McAuley's Folly	Sander's Folly
 x	Expansion Disc
 qstsa5q62b	Kill Baal's Minions.
-x	� Copyright 2001 Blizzard Entertainment
+x	© Copyright 2001 Blizzard Entertainment
 of the Plague	of the Plague
 Go South	return to hell
 ItemExpansiveChancX	%d%% Chance to cast level %d %s on attack
@@ -2043,7 +2043,7 @@ Skillld222	the eyes of your enemies\nsummon ravens to peck out
 Skillan222	Raven
 Skillname223	Poison Creeper
 Skillsd223	summon disease spreading vine
-Skillld223	disease to all it contacts\nsummon a vine that spreads
+Skillld223	contacts and reduces their poison resistance\nsummon a vine that spreads disease to all it
 Skillan223	Psn Creep
 Skillname223	Werewolf
 Skillsd223	transform into a werewolf
@@ -2055,11 +2055,11 @@ Skillld225	when in werewolf or werebear form\npassive - improves duration and li
 Skillan225	Lycanthropy
 Skillname226	Firestorm
 Skillsd226	unleash fiery chaos
-Skillld226	unleash fiery chaos to burn your enemies
+Skillld226	fire speed and range increase per level\nunleash fiery chaos to burn your enemies
 Skillan226	Firestorm
 Skillname227	Oak Sage
 Skillsd227	summon the spirit of the oak
-Skillld227	life for you and your party\nsummon a spirit pet that increases
+Skillld227	grants health regeneration for you and your party\nsummon a spirit pet that increases life and
 Skillan227	Oak Sage
 Skillname228	Summon Spirit Wolf
 Skillsd228	summon a wolf
@@ -2071,7 +2071,7 @@ Skillld229	transform into a werebear
 Skillan229	Werebear
 Skillname230	Molten Boulder
 Skillsd230	launch a molten boulder
-Skillld230	that knocks back your enemies\nlaunch a boulder of flaming hot magma
+Skillld230	boulder speed increases per level\nthat knocks back your enemies\nlaunch a boulder of flaming hot magma
 Skillan230	Molten Boulder
 Skillname231	Arctic Blast
 Skillsd231	shoot a jet of ice
@@ -2079,7 +2079,7 @@ Skillld231	to burn your enemies with frost\nblast a continuous jet of ice
 Skillan231	Arctic Blast
 Skillname232	Carrion Vine
 Skillsd232	summon corpse eating vine
-Skillld232	and replenishes your life\nsummon a vine that eats corpses
+Skillld232	and replenishes life for you and your party\nsummon a vine that eats corpses
 Skillan232	Carrion Vine
 Skillname233	Feral Rage
 Skillsd233	life-stealing rage attack - werewolf form
@@ -2119,11 +2119,11 @@ Skillld241	cut a path through your enemies\nrelease several small whirlwinds tha
 Skillan241	Twister
 Skillname242	Solar Creeper
 Skillsd242	summon corpse eating vine
-Skillld242	and replenishes your mana\nsummon a vine that eats corpses
+Skillld242	and recovers mana for you and your party\nsummon a vine that eats corpses
 Skillan242	Sol Creep
 Skillname243	Hunger
-Skillsd243	life-and-mana-stealing bite
-Skillld243	to gain life and mana\nform, bite your enemies\nwhen in werewolf or werebear
+Skillsd243	consume a corpse to gain temporary bonuses
+Skillld243	gain movement speed, critical strike and life steal\nwhile in werebear form, consume a corpse to temporarily
 Skillan243	Hunger
 Skillname244	Shock Wave
 Skillsd244	create shock waves - werebear form
@@ -2143,7 +2143,7 @@ Skillld247	back at your enemies\ntaken by you and your party\nsummon spirit pet 
 Skillan247	Spirit Barbs
 Skillname248	Summon Grizzly
 Skillsd248	summon a grizzly bear
-Skillld248	summon a ferocious grizzly bear
+Skillld248	can summon an additional grizzly bear at base level 20\nsummon a ferocious grizzly bear
 Skillan248	Summon Grizzly
 Skillname249	Fury
 Skillsd249	multiple attacks - werewolf Form
@@ -2161,13 +2161,13 @@ Skillname252	Fire Blast
 Skillsd252	throw a fire bomb
 Skillld252	to blast your enemies to bits\nthrow a fire bomb
 Skillan252	Fire Blast
-Skillname253	Claw Mastery
-Skillsd253	passive - improves claw-class weapons ability
-Skillld253	with claw-class weapons\npassive - improves your skill
-Skillan253	Claw Mastery
+Skillname253	Claw and Dagger Mastery
+Skillsd253	passive - improves claw and dagger weapons ability
+Skillld253	with claw and dagger weapons\npassive - improves your skill
+Skillan253	Claw and Dagger Mastery
 Skillname254	Psychic Hammer
 Skillsd254	a mind blast to crush your enemies
-Skillld254	to crush and knock back your enemies\nto create a psychic blast\nuse the power of your mind
+Skillld254	to crush and knock back your enemies\nuse the power of your mind to create a psychic blast
 Skillan254	Psyc Hammer
 Skillname255	Tiger Strike
 Skillsd255	increases damage of finishing moves\n\nCharge-up Skill
@@ -2247,7 +2247,7 @@ Skillld273	trap that sprays fire at passing enemies
 Skillan273	Wake of Inferno
 Skillname274	Mind Blast
 Skillsd274	compelling psionic blast
-Skillld274	and convert the feeble-minded\nstun a group of enemies\nusing the power of your mind
+Skillld274	using the power of your mind\nstun a group of enemies
 Skillan274	Mind Blast
 Skillname275	Blades of Ice
 Skillsd275	adds cold damage to finishing moves\n\nCharge-up Skill
@@ -2259,7 +2259,7 @@ Skillld276	adds charged-up bonuses to the kick\nand destroy them with a kick\nte
 Skillan276	Dragon Flight
 Skillname277	Death Sentry
 Skillsd277	trap that explodes nearby corpses
-Skillld277	or explodes nearby corpses laying waste to more enemies\ntrap that shoots lightning at your enemies
+Skillld277	laying waste to enemies\ntrap that explodes nearby corpses
 Skillan277	Death Sentry
 Skillname278	Blade Shield
 Skillsd278	spinning blades of defense
@@ -2817,3 +2817,65 @@ MercX164	Alban
 MercX165	Barloc
 MercX166	Bill
 MercX167	Theodoric
+Cleaving	Cleaving
+Desolating	Desolating
+Mesa	Plains of Torment
+Ice Cave	Ancestral Trial
+Palace	Horadrim Tower
+ArcaneMap	Horazon's Memory
+Kurast	Ruins of Viz-Jun
+River Of Blood	River Of Blood
+Sewers	Sewers of Harrogath
+Lava	Phlegethon
+Desert Map	Desert
+Graveyard Map	Blood Moon
+Monastery Map Basement	Cathedral Basement
+Monastery Map	Cathedral of Light
+Tomb Map	Tomb of Zoltun Kulle
+Throne Map	Throne of Insanity
+Fortress Map	Bastion Keep
+Jungle Map	Torajan Jungle
+Ice Map	Ancestral Trial
+Siege Map	Arreat Battlefield
+Bul-Kathos' Death Band	Bul-Kathos' Death Band
+Itheraels Path	Itherael's Path
+Overlords Helm	Overlord's Helm
+Dark Abyss	Dark Abyss
+Aidans Scar	Aidan's Scar
+Hadriels Hand	Hadriel's Hand
+scrb	ÿc4Horadrim Scarab
+Fall of Caldeum Map	Fall of Caldeum
+Blood Letting	Blood Letting
+Murderous	Murderous
+Blood Sucking	Blood Sucking
+Channeling	Channeling
+Cold	Cold
+Cinder	Cinder
+Morbid	Morbid
+Sparkling	Sparkling
+Discharging	Discharging
+Frigid	Frigid
+Wildfire	Wildfire
+Malicious	Malicious
+Effervescent	Effervescent
+Conduit	Conduit
+Numbing	Numbing
+Inferno	Inferno
+Infectious	Infectious
+Shining	Shining
+Visceral	Visceral
+True Silver	True Silver
+Quetzalcoatl	Quetzalcoatl
+Cyclopean Roar	Cyclopean Roar
+Sankekur's Fall	Sankekur's Fall
+Mage Slayer	Mage Slayer
+Kalans Legacy	Kalan's Legacy
+Tempest	Tempest
+Fall of Caldeum	The Fall of Caldeum
+Pandemonium Citadel	The Pandemonium Citadel
+Reziarfgs Lair	Reziarfg's Lair
+Supporting	Supporting
+Reinforcing	Reinforcing
+Empowering	Empowering
+Bolstering	Bolstering
+Fortifying	Fortifying

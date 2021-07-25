@@ -695,12 +695,12 @@ D2bnetHelp3	SQUELCH filters out incoming messages from the character that you ha
 D2bnetHelp4	UNSQUELCH allows you to again receive incoming messages from a character that has been squelched.
 D2bnetHelp5	EMOTE lets you perform an action that the whole room can <see> as represented through text.
 D2bnetHelp5a	For example, if Doomhammer wants to greet all the players in the chat Channel, he could type, <waves hello.> and then click the EMOTE button. Everyone in the Channel will then receive the message, <Doomhammer waves hello.> This button is activated as soon as you start typing in the Text Box.
-D2bnetHelp6	ÿc5Gray Textÿc4 indicates when someone Joins or Leaves the chat Channel.
-D2bnetHelp7	ÿc7Gold Textÿc4 indicates the name of the player speaking.
-D2bnetHelp8	ÿc0White Textÿc4 indicates what you or others have said out loud to the entire chat Channel.
-D2bnetHelp9	ÿc2Green Textÿc4 indicates what you have <whispered> to a specific person, or any message that has been <whispered> to you, in the chat Channel.
-D2bnetHelp10	ÿc3Blue Textÿc4 represents actions that have been taken by people in the chat Channel or special messages sent directly from battle.net.
-D2bnetHelp11	ÿc1Red Textÿc4 represents error messages sent directly from battle.net.
+D2bnetHelp6	Ã¿c5Gray TextÃ¿c4 indicates when someone Joins or Leaves the chat Channel.
+D2bnetHelp7	Ã¿c7Gold TextÃ¿c4 indicates the name of the player speaking.
+D2bnetHelp8	Ã¿c0White TextÃ¿c4 indicates what you or others have said out loud to the entire chat Channel.
+D2bnetHelp9	Ã¿c2Green TextÃ¿c4 indicates what you have <whispered> to a specific person, or any message that has been <whispered> to you, in the chat Channel.
+D2bnetHelp10	Ã¿c3Blue TextÃ¿c4 represents actions that have been taken by people in the chat Channel or special messages sent directly from battle.net.
+D2bnetHelp11	Ã¿c1Red TextÃ¿c4 represents error messages sent directly from battle.net.
 D2bnetHelp36	THE DIALOGUE WINDOW
 D2bnetHelp36a	This window on the right side of the screen is used to display and enter both game and profile information. Unlike the Chat Window, this area changes depending on what function you have activated. The buttons for these functions are discussed in detail in the following section:
 D2bnetHelp37	CREATE
@@ -2694,7 +2694,7 @@ Nokozan Relic	Nokozan Relic
 The Eye of Etlich	The Eye of Etlich
 The Mahim-Oak Curio	The Mahim-Oak Curio
 Nagelring	Nagelring
-Manald Heal	Manald Heal
+Manald Heal	The Eye of Mordini
 Gorgethroat	Gorgethroat
 Amulet of the Viper	Amulet of the Viper
 Staff of Kings	Staff of Kings
@@ -3370,13 +3370,13 @@ AC	Def
 Level	Lvl
 Cost	Cost
 Damage	Damage
-strhirespecial1	Fire Arrow
-strhirespecial2	Cold Arrow
+strhirespecial1	Fire Arrow (Vigor)
+strhirespecial2	Cold Arrow (Meditation)
 strhirespecial3	Jab Attack
 strhirespecial4	Poison Resistant
-strhirespecial5	Lightning
-strhirespecial6	Cold
-strhirespecial7	Fire
+strhirespecial5	Lightning (Holy Shock)
+strhirespecial6	Cold (Prayer)
+strhirespecial7	Fire (Cleansing)
 strhirespecial8	Lightning, Fast Cast
 strhirespecial9	Cold, Fast Cast
 strhirespecial10	Fire, Fast Cast
@@ -3471,7 +3471,7 @@ ItemStats1o	Smite Damage:
 ItemStats1p	Required Level:
 ItemStats1q	Points:
 ItemStatsrejuv1	Heals 35% Life and Mana
-ItemStatsrejuv2	Heals 100% Life and Mana
+ItemStatsrejuv2	Heals 65% Life and Mana
 ModStr1a	to Strength
 ModStr1b	to Dexterity
 ModStr1c	to Vitality
@@ -3517,8 +3517,8 @@ ModStr2p	Restore Full Life
 ModStr2q	Replenish 1/4 Mana
 ModStr2r	Replenish 1/2 Life
 ModStr2s	Restore Full Mana
-ModStr2t	Magic Damage Reduced by
-ModStr2u	Damage Reduced by
+ModStr2t	Magic Damage Taken Reduced by
+ModStr2u	Physical Damage Taken Reduced by
 Modstr2v	Enhanced Defense
 ModStr2w	Drain Life
 ModStr2x	Drain Mana
@@ -3544,7 +3544,7 @@ ModStr3q	No Life Healing
 ModStr3r	Poison Length Reduced by
 ModStr3u	Hit Causes Monster To Flee
 ModStr3v	Heal Stamina Plus
-ModStr3w	Damage Taken Goes To Mana
+ModStr3w	Damage Taken Gained as Mana when Hit
 ModStr3x	Heal Life Plus
 ModStr3y	Ignore Target's Defense
 ModStr3z	Half Poison Duration
@@ -3657,7 +3657,7 @@ chatmsg1	 whispers:
 chatmsg2	 shouts: 
 chatmsg3	(LVL 
 chatmsg3	 )
-strwhisperworked	ÿc0You whispered to ÿc1%sÿc0: %s
+strwhisperworked	Ã¿c0You whispered to Ã¿c1%sÃ¿c0: %s
 syswork	Working...
 ShrId0	Null Shrine
 ShrId1	Refilling Shrine
@@ -3993,7 +3993,7 @@ waypointsheader	Choose your destination
 nowaypoints	No Other Waypoints Activated
 max	MAX
 MAX	MAX
-colorcode	ÿc
+colorcode	Ã¿c
 space	 
 dash	-
 colon	:
@@ -4418,18 +4418,18 @@ skillld10	using a javelin or spear class weapon\nattacks with a series of rapid 
 skillan10	Jab
 skillname11	Cold Arrow
 skillsd11	enchants arrows to slow targets
-skillld11	always hits\ncold arrows only do half of their regular damage\nby adding cold damage and a slowing effect\nmagically enhances your arrows or bolts
+skillld11	always hits\nmagically enhances your arrows or bolts with cold
 skillan11	Cold Arrow
 skillname12	Multiple Shot
 skillsd12	fires multiple arrows
 skillld12	or bolt into many\nmagically splits one arrow
 skillan12	Multiple Shot
 skillname13	Dodge
-skillsd13	passive - dodges melee attacks
-skillld13	or standing still\na melee attack when attacking\npassive - you have a chance to dodge
+skillsd13	also grants bonus faster hit recovery\npassive - dodges melee and ranged attacks
+skillld13	or standing still\na melee or ranged attack when attacking\npassive - you have a chance to dodge
 skillan13	Dodge
 skillname14	Power Strike
-skillsd14	adds lightning damage
+skillsd14	adds lightning damage and casts a small nova
 skillld14	javelin and spear class weapons\nadds lightning damage to attacks with
 skillan14	Power Strike
 skillname15	Poison Javelin
@@ -4440,17 +4440,17 @@ skillname16	Exploding Arrow
 skillsd16	enchant arrows to explode
 skillld16	always hits\ncontact, damaging all nearby enemies\nenchants an arrow or bolt that explodes on
 skillan16	Exploding
-skillname17	Slow Missiles
-skillsd17	slows ranged attacks of enemies
-skillld17	illuminates nearby enemies and slows their ranged attacks
-skillan17	Slow Missiles
+skillname17	Slow Movement
+skillsd17	slows ranged attacks and movement of enemies
+skillld17	their ranged attacks and movement\nilluminates nearby enemies and slows
+skillan17	Slow Movement
 skillname18	Avoid
 skillsd18	passive - dodges missiles
 skillld18	when attacking or standing still\npassive - you have a chance to dodge enemy missiles
 skillan18	Avoid
-skillname19	Impale
-skillsd19	increases damage but degrades weapon
-skillld19	increases attack damage but rapidly degrades the weapon
+skillname19	Javelin and Spear Mastery
+skillsd19	passively increases damage and attack speed
+skillld19	javelin and spear class weapons\nincreases damage and critical hit chance with
 skillan19	Impale
 skillname20	Lightning Bolt
 skillsd20	changes a thrown javelin into lightning
@@ -4466,7 +4466,7 @@ skillld22	always hits\nor seek one of its own\nto track your target\nenhances yo
 skillan22	Guided Arrow
 skillname23	Penetrate
 skillsd23	passive - increases attack rating
-skillld23	passive - increases your attack rating
+skillld23	passive - increases your attack rating and lowers target defense
 skillan23	Penetrate
 skillname24	Charged Strike
 skillsd24	enchants thrusting weapons with charged bolts
@@ -4489,8 +4489,8 @@ skillsd28	creates a duplicate of yourself
 skillld28	that draws fire from enemies\ncreates a duplicate of yourself
 skillan28	Decoy
 skillname29	Evade
-skillsd29	passive - dodges when moving
-skillld29	when walking or running\na melee or missile attack\npassive - you have a chance to dodge
+skillsd29	passive - dodges when moving and increased movespeed
+skillld29	Also grants passive movement speed\na melee or missile attack when walking or running\npassive - you have a chance to dodge
 skillan29	Evade
 skillname30	Fend
 skillsd30	attacks all adjacent targets
@@ -4522,7 +4522,7 @@ skillld36	creates a magical flaming missile
 skillan36	Fire Bolt
 skillname37	Warmth
 skillsd37	passive - increases mana recovery rate
-skillld37	passive - increases the rate at which you recover mana
+skillld37	and grants passive attack rating\npassive - increases the rate at which you recover mana
 skillan37	Warmth
 skillname38	Charged Bolt
 skillsd38	creates multiple deadly sparks
@@ -4542,7 +4542,7 @@ skillld41	to scorch your enemies\ncreates a continuous jet of flame
 skillan41	Inferno
 skillname42	Static Field
 skillsd42	creates a field of deadly sparks
-skillld42	of all nearby enemies by one third\ncreates an electrical field that reduces life
+skillld42	reduces enemy lightning resistance for a short duration\nof all nearby enemies by one fourth\ncreates an electrical field that reduces life
 skillan42	Static Field
 skillname43	Telekinesis
 skillsd43	moves objects with your mind
@@ -4580,17 +4580,17 @@ skillname51	Fire Wall
 skillsd51	creates a wall of flame
 skillld51	blocks or burns your enemies\ncreates a wall of flame that
 skillan51	Fire Wall
-skillname52	Enchant
+skillname52	Enchant Fire
 skillsd52	enchants melee or ranged weapons with fire
-skillld52	adds one-third fire damage to ranged weapons\nadds fire damage to melee weapons\nenchants equipped weapon of targeted character or minion
-skillan52	Enchant
+skillld52	half efficiency for all allies\nadds one-third fire damage to ranged weapons\nadds fire damage to melee weapons\nenchants equipped weapon of targeted character or minion
+skillan52	Enchant Fire
 skillname53	Chain Lightning
 skillsd53	creates a bolt of lightning that arcs
 skillld53	arcs through several targets\ncreates a bolt of lightning that
 skillan53	Chain Lightning
 skillname54	Teleport
-skillsd54	instantly moves to destination
-skillld54	instantly moves to a destination within your line of sight
+skillsd54	instantly moves to destination and reduces damage dealt
+skillld54	and reduces the spell damage you deal for 1 second\ninstantly moves to a destination within your line of sight
 skillan54	Teleport
 skillname55	Glacial Spike
 skillsd55	creates a freezing comet of ice
@@ -4613,16 +4613,16 @@ skillsd59	summons a massive ice storm
 skillld59	summons massive shards of ice to destroy your enemies
 skillan59	Blizzard
 skillname60	Chilling Armor
-skillsd60	retaliates against ranged attackers
-skillld60	against ranged attackers\nincreases defense and discharges an ice bolt in retaliation
-skillan60	Chill'n Armor
+skillsd60	retaliates against ranged and melee attackers
+skillld60	damages melee attackers if you are hit\nin retaliation against ranged attackers\nincreases defense and discharges a blizzard spike
+skillan60	Chilling Armor
 skillsname61	Fire Mastery
 skillsd61	passive - increases fire damage
 skillld61	passive - increases all damage caused by your fire spells
 skillan61	Fire Mastery
 skillname62	Hydra
 skillsd62	summons multi-headed fire beast
-skillld62	to reduce your enemies to ashes\nsummons a multi-headed beast of flame
+skillld62	fireball to reduce your enemies to ashes\nsummons a multi-headed beast of flame that casts
 skillan62	Hydra
 skillname63	Lightning Mastery
 skillsd63	passive - reduces cost of lightning spells
@@ -4634,7 +4634,7 @@ skillld64	to lay waste to your enemies\ncreates a magical globe that sprays a to
 skillan64	Frozen Orb
 skillname65	Cold Mastery
 skillsd65	passive - cold attacks become piercing
-skillld65	by piercing enemies resistances to cold\npassive - increases the damage of your cold attacks
+skillld65	and pierces enemies resistances to cold\npassive - increases the damage of your cold attacks
 skillan65	Cold Mastery
 skillname66	Amplify Damage
 skillsd66	curse - amplifies damage taken by enemies
@@ -4649,16 +4649,16 @@ skillsd68	creates a damage absorbing bone shell
 skillld68	that absorbs melee damage\ncreates an orbiting shield of bone
 skillan68	Bone Armor
 skillname69	Skeleton Mastery
-skillsd69	passive - better skeletons and revived creatures
-skillld69	of raised skeletons and revived creatures\npassive - increases life and damage
+skillsd69	passive - better skeletons
+skillld69	velocity of raised skeletons\npassive - increases life, damage, and
 skillan69	Skeleton Mastery
-skillname70	Raise Skeleton
+skillname70	Raise Skeleton Warrior
 skillsd70	reanimate skeletal warrior from target corpse
 skillld70	fights for you\nthis raises a skeleton warrior that\ncast on the corpse of a slain monster,
-skillan70	Raise Skeleton
+skillan70	Skeleton Warrior
 skillname71	Dim Vision
 skillsd71	curse - reduces vision of monsters
-skillld71	reducing their vision radius\ncurses a group of monsters,
+skillld71	reducing their vision radius and attack rating\ncurses a group of monsters,
 skillan71	Dim Vision
 skillname72	Weaken
 skillsd72	curse - reduces damage done by enemies
@@ -4689,7 +4689,7 @@ skillsd78	creates an impassable barrier
 skillld78	of bone and debris\ncreates an impassable barrier
 skillan78	Bone Wall
 skillname79	Golem Mastery
-skillsd79	Enhances Speed and Life of Golems
+skillsd79	Enhances Speed, Life and Number of Golems
 skillld79	Enhances Speed and Life of all your Golems
 skillan79	Golem Mastery
 skillname80	Raise Skeletal Mage
@@ -4709,12 +4709,12 @@ skillsd83	turns a corpse into a poison gas bomb
 skillld83	that poisons nearby monsters\ntoxic gas is released\ncast on the corpse of a slain monster,
 skillan83	Poison Exp.
 skillname84	Bone Spear
-skillsd84	summons a deadly spike of bone
-skillld84	summons a deadly spike of bone to impale your enemies
+skillsd84	summons deadly spikes of bone
+skillld84	summons deadly spikes of bone to impale your enemies
 skillan84	Bone Spear
 skillname85	Blood Golem
-skillsd85	a golem that shares life and damage
-skillld85	it steals and damage it receives\ncreates a golem that shares with you the life
+skillsd85	a golem that shares life
+skillld85	with you the life it steals\ncreates a golem that shares
 skillan85	Blood Golem
 skillname86	Attract
 skillsd86	curse - monster becomes universal target
@@ -4722,7 +4722,7 @@ skillld86	this curse may not be overridden by another curse\ntarget of all nearb
 skillan86	Attract
 skillname87	Decrepify
 skillsd87	curse - greatly slows and weakens enemies
-skillld87	slow, weak and take amplified damage\ncurses a group of enemies to make them
+skillld87	movement speed, attack rate, and cast rate\ncurses a group of enemies to slow their
 skillan87	Decrepify
 skillname88	Bone Prison
 skillsd88	creates a barrier of bone around target
@@ -4770,15 +4770,15 @@ skillld98	done by you and your party\nwhen active, aura increases the damage
 skillan98	Might
 skillname99	Prayer
 skillsd99	aura - regenerates life
-skillld99	the life of you and your party\nwhen active, aura slowly regenerates
+skillld99	them life from melee attacks\nthe life of you and your party and grants\nwhen active, aura slowly regenerates
 skillan99	Prayer
 skillname100	Resist Fire
-skillsd100	aura - protects against fire damage
-skillld100	done to you and your party\nwhen active, aura decreases fire damage
+skillsd100	fire damage dealt\naura - protects against fire damage and increases
+skillld100	for you and your party\nreceived and increases fire damage dealt\nwhen active, aura decreases fire damage
 skillan100	Resist Fire
 skillname101	Holy Bolt
-skillsd101	divine energy that damages undead
-skillld101	or heals allies\nthat damages undead enemies\na bolt of divine energy
+skillsd101	divine energy that damages enemies and heals allies
+skillld101	fires an additional holy bolt at levels 15 and 25\nthat damages enemies or heals allies\na bolt of divine energy
 skillan101	Holy Bolt
 skillname102	Holy Fire
 skillsd102	aura - flames damage nearby enemies
@@ -4786,15 +4786,15 @@ skillld102	with heavenly flames\nwhen active, aura damages nearby enemies
 skillan102	Holy Fire
 skillname103	Thorns
 skillsd103	aura - reflects damage back at enemies
-skillld103	back at your attacker\nwhen active, aura reflects damage done to you
+skillld103	back at your attacker\nwhen active, aura reflects physical damage
 skillan103	Thorns
 skillname104	Defiance
 skillsd104	aura - increases defense
-skillld104	of you and your party\nwhen active, aura increases the defense rating
+skillld104	physical damage reduction of you and your party\nwhen active, aura increases the defense rating and
 skillan104	Defiance
 skillname105	Resist Cold
-skillsd105	aura - protects against cold damage
-skillld105	done to you and your party\nwhen active, aura decreases cold damage
+skillsd105	cold damage dealt\naura - protects against cold damage and increases
+skillld105	for you and your party\nreceived and increases cold damage dealt\nwhen active, aura decreases cold damage
 skillan105	Resist Cold
 skillname106	Zeal
 skillsd106	attacks multiple adjacent enemies
@@ -4813,12 +4813,12 @@ skillsd109	aura - reduces poison and curse duration
 skillld109	will remain poisoned or cursed\nof time you and your party\nwhen active, aura reduces the length
 skillan109	Cleansing
 skillname110	Resist Lightning
-skillsd110	aura - protects against lightning damage
-skillld110	done to you and your party\nwhen active, aura decreases lightning damage
+skillsd110	lightning damage dealt\naura - protects against lightning damage and increases
+skillld110	for you and your party\nreceived and increases lightning damage dealt\nwhen active, aura decreases lightning damage
 skillan110	R. Lightning
 skillname111	Vengeance
 skillsd111	attacks add elemental damage
-skillld111	to each successful attack\nfire, lightning and cold damage are added
+skillld111	damage from items\nthis effect also carries and increases elemental\ndeals fire, lightning, and cold damage in an area
 skillan111	Vengeance
 skillname112	Blessed Hammer
 skillsd112	summon a spiraling magic hammer
@@ -4849,8 +4849,8 @@ skillsd118	aura - lightning damages nearby enemies
 skillld118	to damage nearby enemies\nwhen active, aura causes pulses of electricity
 skillan118	Holy Shock
 skillname119	Sanctuary
-skillsd119	aura - repels and damages undead
-skillld119	and knocks them back\nwhen active, aura damages the undead
+skillsd119	aura - repels and damages enemies with magic
+skillld119	allows damage to be dealt to physical immune undead\nenemies with magic\nwhen active, aura damages the nearby
 skillan119	Sanctuary
 skillname120	Meditation
 skillsd120	aura - increases mana recovery
@@ -4869,25 +4869,25 @@ skillsd123	aura  - weakens enemies
 skillld123	and resistances of nearby enemies\nwhen active, aura reduces the defenses
 skillan123	Conviction
 skillname124	Redemption
-skillsd124	aura - redeems the dead for mana and life
+skillsd124	aura - redeems the dead for mana
 skillld124	life and mana to you and your party\nthe souls of slain enemies to give\nwhen active, aura attempts to redeem
 skillan124	Redemption
 skillname125	Salvation
-skillsd125	aura - protects against elemental damage
-skillld125	done to you and your party\nwhen active, aura decreases fire, cold and lightning damage
+skillsd125	aura - protects against and increases elemental damage
+skillld125	for you and your party\nreceived and increases fire, cold, and lightning damage dealt\nwhen active, aura decreases fire, cold, and lightning damage
 skillan125	Salvation
 skillname126	Bash
 skillsd126	powerful blow that increases damage
-skillld126	to enemies and knocks them back\npowerful blow that increases the damage done
+skillld126	powerful blow that has a chance to knock back enemies
 skillan126	Bash
 skillname127	Sword Mastery
 skillsd127	passive - improves sword fighting skill
 skillld127	passive - improves sword fighting skill
 skillan127	Sword Mastery
-skillname128	Axe Mastery
-skillsd128	passive - improves axe fighting skill
-skillld128	passive - improves axe fighting skill
-skillan128	Axe Mastery
+skillname128	General Mastery
+skillsd128	passive - improves sword, axe, and mace fighting skill
+skillld128	passive - improves sword, axe, and mace fighting skill
+skillan128	General Mastery
 skillname129	Mace Mastery
 skillsd129	passive - improves mace fighting skill
 skillld129	passive - improves mace fighting skill
@@ -4908,10 +4908,10 @@ skillname133	Double Swing
 skillsd133	swings two weapons at once
 skillld133	or one target twice\nattacks two targets if possible,\nwhen two weapons are equipped
 skillan133	Double Swing
-skillname134	Pole Arm Mastery
-skillsd134	passive - improves pole arm skill
-skillld134	passive - improves pole arm skill
-skillan134	Pole Arm Mastery
+skillname134	Polearm And Spear Mastery
+skillsd134	passive - improves polearm and spear skill
+skillld134	passive - improves pole arm and spear skill
+skillan134	Polearm And Spear Mastery
 skillname135	Throwing Mastery
 skillsd135	passive - improves thrown weapon skill
 skillld135	passive - improves thrown weapon skill
@@ -4933,24 +4933,24 @@ skillsd139	stuns your target
 skillld139	and increases your attack rating\nstuns your target for a short time
 skillan139	Stun
 skillname140	Double Throw
-skillsd140	throw two weapons at once
-skillld140	throwing weapons at the same time\nallows you to throw two different
+skillsd140	throw two weapons that bounce to nearby enemies
+skillld140	weapons bounce to nearby enemies\nthrowing weapons at the same time\nallows you to throw two different
 skillan140	Double Throw
-skillname141	Increased Stamina
-skillsd141	passive - increases stamina
-skillld141	passive - increases your stamina
-skillan141	Increased Stamina
+skillname141	Combat Reflexes
+skillsd141	passive - increases stamina, hit recovery, and life
+skillld141	passive - increases stamina, hit recovery, and life
+skillan141	Combat Reflexes
 skillname142	Find Item
 skillsd142	targets corpses to find items
 skillld142	to find hidden treasures\nuse on the corpse of a slain monster
 skillan142	Find Item
 skillname143	Leap Attack
-skillsd143	leaps and attacks target enemy
-skillld143	in one swift assault\nleaps to and attacks target enemy
+skillsd143	leaps and attacks enemies
+skillld143	in a radius upon landing\nleaps to and attacks enemies
 skillan143	Leap Attack
 skillname144	Concentrate
 skillsd144	attack that is not interruptible
-skillld144	improves attack and defense rating\nattack that is not interruptible and
+skillld144	converts physical damage to magic damage\nimproves attack and defense rating and\nattack that is not interruptible and
 skillan144	Concentrate
 skillname145	Iron Skin
 skillsd145	passive - improves defense rating
@@ -4958,7 +4958,7 @@ skillld145	passive - improves defense rating
 skillan145	Iron Skin
 skillname146	Battle Cry
 skillsd146	reduces enemy effectiveness
-skillld146	enemies defense rating and damage\nfearsome cry that decreases
+skillld146	enemies defense rating and physical damage resistance\nfearsome cry that decreases
 skillan146	Battle Cry
 skillname147	Frenzy
 skillsd147	successful double swing hit increases speed
@@ -4973,8 +4973,8 @@ skillsd149	improves life, mana and stamina of party
 skillld149	stamina of you and your party\nimproves the maximum mana, life and
 skillan149	Battle Orders
 skillname150	Grim Ward
-skillsd150	creates a frightening totem
-skillld150	that causes nearby monsters to flee\nto create a frightening totem\nuse on the corpse of a slain monster
+skillsd150	creates a frightening totem that buffs allies
+skillld150	for you and your party\nthat increases damage and attack rating\nto create a frightening totem\nuse on the corpse of a slain monster
 skillan150	Grim Ward
 skillname151	Whirlwind
 skillsd151	whirling dance of death
@@ -4982,7 +4982,7 @@ skillld151	legions of your enemies\nthat cuts a path through the\na whirling dan
 skillan151	Whirlwind
 skillname152	Berserk
 skillsd152	powerful but reckless attack
-skillld152	but decreases defense rating\nthat increases damage and attack rating\na powerful but reckless attack
+skillld152	requres you to equip two weapons\ndefense rating and physical damage resistance\nincreases damage and attack rating but decreases\na powerful but reckless attack that
 skillan152	Berserk
 skillname153	Natural Resistance
 skillsd153	passive - increases natural resistances
@@ -5238,7 +5238,7 @@ x	Your name did not have enough alpha-numeric characters in it.
 x	Your name contained too many adjacent punctuation characters in it.
 x	Your name contained too many punctuation characters in it.
 x	The passwords you have typed do not match. Please enter the same password twice.
-x	An account already exists with the name you have chosen.  Please try again with a different name.
+x	Login to www.projectdiablo2.com and go to Account -> Manage PD2 Account to create an in-game account.
 x	You have entered an invalid ID.
 x	You have entered an incorrect password. If your character has not been on Battle.net for 3 months, or if you forgot your password, you can select 
 x	Unable to change password. You have specified an invalid name or password.
@@ -5256,7 +5256,7 @@ x	FILTER
 x	CHANNEL
 x	PLAYERS
 x	Password (Optional)
-x	Game Description (Optional)
+x	Game Server (e.g. gs 1)
 x	Max. Number of Players:
 x	Character Difference:
 x	Levels
@@ -5390,3 +5390,218 @@ convertsto	Right click to make
 strNotInBeta	Not in Beta.
 strLevelLoadFailed	No Level Name
 Endthispuppy	End of Beta
+t11	Ruins of Viz-Jun Map
+t12	Horazon's Memory Map
+t13	Bastion Keep Map
+t21	Phlegethon Map
+t22	Torajan Jungle Map
+t23	Arreat Battlefield Map
+t24	Tomb of Zoltun Kulle Map
+t31	River of Blood Map
+t32	Throne of Insanity Map
+t33	Reziarfg's Lair Map
+t34	Ancestral Trial Map
+t35	Blood Moon Map
+t36	Fall of Caldeum Map
+t41	Cathedral of Light Map
+t42	Desert Map
+t43	Plains of Torment Map
+StrJavMastAtkSpd	Increases attack speed by 1% per base level
+StrJavMastAtkSpd2	Currently: 
+StrPowerStrikeNova	lightning damage in an area\nCasts a small nova that deals
+HolyNova	Holy Nova
+HolyNovaShortDesc	Creates a Nova of Holy Light
+HolyNovaLongDesc	that damages enemies or heals allies\nCreates an expanding ring of holy energy
+Physdplev	Physical Damage per Level
+HolyLight	Holy Light
+HolyLightShortDesc	Heals an Ally
+HolyLightLongDesc	to heal an ally from afar\nCalls down light from the heavens
+NovaDmgStr	Nova Lightning Damage: 
+NovaLtngdplev	Nova Lightning Damage per Level
+EnemyAtkRateStr	Enemy Attack Rating: 
+SlowMoveStr	Slows Movement by: 
+StrPowerStrikeLevel	Powerstrike Level: 
+StrValkPowerStrikeSyn	Power Strike: +20% added lightning damage and +10% nova lightning damage
+StrExtraValk	at levels 20 and 30\nCan summon an additional valkyrie
+StrPercentMoveSpeed	% Movement Speed
+StrPercentFHR	% faster hit recovery
+StrDodgeFHR	Grants bonus hit recovery per base level
+StrLevels	 levels
+MagdConvplev	Percent Magic Damage Conversion per Level
+IceBarrage	Ice Barrage
+IceBarrageShortDesc	Creates a barrage of ice lances that slow enemies
+IceBarrageLongDesc	that damage and slow nearby enemies\nCreates a barrage of magical ice lances
+IceLances	 Ice Lances
+Ltngprcplev	Lightning Pierce per Level
+StrWeaponDmg	Weapon Damage: 
+StrFlatLife	 life
+StrFlatMana	 mana
+AddedPhysdplev	Added Damage per Level
+StrBounces	 bounces
+StrPercentDamage	% Damage
+Gust	Gust
+GustShortDesc	Instantly moves to a destination and chills enemies
+GustLongDesc	enemies upon arrival for .5 seconds\nInstantly moves to a destination chilling
+StrCooldown	Cooldown: 
+BloodWarp	Blood Warp
+BloodWarpShortDesc	Instantly moves to a destination and drains life
+BloodWarpLongDesc	HP lost regenerates over 5 seconds\nof a percentage of max HP\nInstantly moves to a destination at the cost
+StrLifeCost	Life Cost: 
+StrPercentMaxHP	% Maximum Health
+StrIncLeapSpeed	Leap speed is increased with each base level
+StrPercIncLeapSpeed	% Increased Leap Speed
+StrColdPierce	Cold Pierce: 
+ColdEnchant	Cold Enchant
+ColdEnchantShortDesc	enchants melee or ranged weapons with cold
+ColdEnchantLongDesc	half efficiency for all allies\nadds one-third cold damage to ranged weapons\nadds cold damage to melee weapons\nenchants equipped weapon of targeted character or minion
+StrDelay	Delay: 
+StrReducedDelay	Reduced Delay
+StrAttackRating	 Attack Rating
+StrPhysDmgResist	Physical Damage Resistance: 
+StrBonusSkills	Bonus Skills: 
+StrIncPhysDmgRed	By 1% Every 2 Base Levels\nIncreases Physical Damage Reduction
+StrPhysDmgRed	Physical Damage Reduction: 
+StrIncFlatLife	Increases Max HP By 20 Every Base Level
+StrPierce	Pierce: 
+Combustion	Combustion
+CombustionShortDesc	Creates an expanding ring of fire balls to engulf your enemies
+CombustionLongDesc	Creates an expanding ring of fire balls to engulf your enemies
+StrFirePierce	Fire Pierce: 
+LesserHydra	Lesser Hydra
+LesserHydraShortDesc	summons multi-headed fire beast
+LesserHydraLongDesc	firebolt to reduce your enemies to ashes\nsummons a multi-headed beast of flame that casts
+StrGainDRPassiveBonus	Gain 1% Active Damage Reduction with every 2 Base Level\n
+StrPassiveHPRegen	Health Regeneration: 
+StrGainRegenPassiveBonus	Grants +1 Passive Health Regeneration per Base Level
+StrEnemyLtngRes	Enemy Lightning Resistances: -
+StrLtngMasterySynergy	seconds increased duration
+skill charm	skills
+exp charm	exp charm
+frw charm	gotta go fast
+PercWeapDamsk	% Weapon Damage
+StrSkillBombs	Bombs: 
+StrIncreasedBombs	Gains an Extra Bomb Every 4 Base Levels
+StrAddBoneSpear	Fires an Additional Bone Spear at Levels 15 and 25
+StrSkillBoneSpears	Bone Spears: 
+StrIncVelocity	Velocity: 
+StrTwisters	Twisters: 
+StrManaHeal	Mana Recovered: 
+StrOakSynergy	Oak Sage: 
+StrCarrionSynergy	Carrion Vine: 
+StrSolarSynergy	Solar Creeper: 
+StrLifeHealed	 Life Healed per Level
+StrManaHealed	 Mana Recovered per Level
+StrExtraGolems	Can Summon an Extra Golem Every 5 Base Levels
+StrGolems	Golems: 
+StrExtraRaven	Summon an Additional Raven per Cast every 10 Base Levels
+StrHPRegenPerLevel	Health Regeneration per Level
+StrReturns	Returns 
+StrDmgToAtt	 Damage to Attackers
+StrMagDmgRed	Magic Damage Reduction: 
+CurseMastery	Curse Mastery
+CurseMasteryShortDesc	increases the max number of curses
+CurseMasteryLongDesc	you to apply an additional curse for every 10 base levels\npassive - provides benefits to your curses and allows
+StrMaxCurses	Maximum Curses: 
+StrCurseDuration	Curse Duration: 
+StrCurseRadius	Curse Radius: 
+StrLowerResDesc	Lowers Resistances by 2% per Base Level
+Desecrate	Desecrate
+DesecrateShortDesc	summons 5 corpses and releases a deadly cloud of poison\n
+DesecrateLongDesc	summons 5 corpses and releases a deadly cloud of poison
+StrAmpDmgPhysRes	Reduced Physical Damage Resistance Increased by 2% per Base Level
+StrAttCastRateplev	Reduced Attack and Cast Rate per Level
+StrAttCastRate	Attack and Cast Rate: 
+StrMoveSpeed	Movement Speed: 
+StrRedPhysDmgResplev	Reduced Physical Resistance Per Two Levels
+StrDecrepRedDesc	Reduces Movement Speed by 1% per Base Level
+StrRedARplev	Reduced Attack Rating per Level
+StrIncLLplev	Increased Life Steal per Two Levels
+StrLifeTapInc	Percent Life Steal Increases by 2% per Base Level
+StrLifeSteal	Life Steal: 
+StrRedDmgplev	Reduced Damage per Two Levels
+StrConfuseAttSpd	Increases Monster Attack Speed by 10% per Base Level
+StrAttSpdplev	Increased Attack Speed per Level
+StrRedEneDefplev	Reduced Enemy Defense per Level
+StrRedMoveSpdplev	Reduced Movement Speed per Level
+StrLowResRedplev	Lowered Resistances per Two Levels
+StrIncDmgRet	Increased Damage Returned to Enemies per Level
+StrTerrorMoveSpdDesc	Reduces Movement Speed by 2% per Base Level
+StrIncRadiusplev	Radius per Three Levels
+DarkPact	Dark Pact
+DarkPactShortDesc	consumes curses to deal magic damage around the enemy
+DarkPactLongDesc	the enemy for each curse devoured\nsealing a dark pact and dealing damage around\nconsumes the curses on enemies within an area
+StrAllCurses	All Curses
+StrMagDmg	Magic Damage
+StrPerCurse	 per Curse: 
+Joust	Joust
+JoustShortDesc	teleport and strike enemies
+JoustLongDesc	strike gaining increased movement speed for 2 seconds\nteleport to your enemies and impale them with a deadly
+StrDeals	Deals 
+StrPercWepDmg	% Weapon Damage
+StrJoustIncMS	Increases Movement Speed by 2% per Base Level
+StrCritStrike	Critical Strike: 
+LesserFade	Lesser Fade
+StrToMaxCurses	You May Apply An Additional Curse
+Blink	Blink
+BlinkShortDesc	instantly moves to destination
+BlinkLongDesc	instantly moves to a destination
+StrConcMagConvert	Converts 2% of Physical Damage to Magic Damage per Base Level
+StrLeapDist	Leap Distance: 
+StrLeapKBDist	Knockback Radius: 
+StrPercTargetDef	% to Target Defense
+StrPenTgtDef	Reduces Target Defense by 1% per Base Level
+StrPercPoisRes	% Poison Resistance
+StrPierces	Pierces 
+StrBOSAtkSpd	Increases Attack Speed with Base Levels
+StrVelocity	Velocity: 
+StrElemDmg	Elemental Damage: 
+StrLGOH	 Life Gained On Hit
+StrNecroMagePsn	 Over 0.5 Seconds
+StrBCSkills	Grants an Additional Skill Level every 10 Base Levels
+StrMaxFireResPassive	Grants 1% Passive Maximum Fire Resistance per 2 Base Levels
+StrMaxColdResPassive	Grants 1% Passive Maximum Cold Resistance per 2 Base Levels
+StrMaxLtngResPassive	Grants 1% Passive Maximum Lightning Resistance per 2 Base Levels
+StrToMaxFireRes	Maximum Resist Fire: 
+StrToMaxColdRes	Maximum Resist Cold: 
+StrToMaxLtngRes	Maximum Resist Lightning: 
+StrPassiveDR	Passive Physical Damage Reduction: 
+StrActiveDR	Active Physical Damage Reduction: 
+StrPassiveMoveSpeed	Grants +1% Passive Faster Run/Walk per Base Level
+StrFRW	Faster Run/Walk: 
+StrPoisDurRed	Reduces poison duration by 
+StrDurRedPassive	Grants 1% Passive Poison and Curse Duration Reduction per Base Level
+StrMedMPK	Grants +1 Passive Mana After Each Kill every 2 Base Levels
+StrMPK	 to Mana after each Kill
+StrPassiveBlessAim	Grants +10% Passive Attack Rating per Base Level
+StrHungerBuffs	Gains +2 Second Duration per Base Level
+StrCritStrikeChance	 percent chance of Critical Strike
+of Clarity	of Clarity
+of Divinity	of Divinity
+of the Dawn	of the Dawn
+StrMapLightRadius	reduced light radius
+of Darkness	of Darkness
+StrLightFuryBolts	Releases An Additional Bolt Every 10 Levels
+t37	Pandemonium Citadel Map
+t25	Sewers of Harrogath Map
+t37	Pandemonium Citadel Map
+ExtraPlaguePoppy	\nPoison Creeper Every 10 Base Levels\nYou May Summon An Additional
+of Defending	of Defending
+of Protecting	of Protecting
+of Guardianship	of Guardianship
+of Savagery	of Savagery
+of Devastation	of Devastation
+of Havoc	of Havoc
+of Destruction	of Destruction
+of Desolation	of Desolation
+of Bleeding	of Bleeding
+of Siphoning	of Siphoning
+of Gory	of Gory
+of Sanguinary	of Sanguinary
+of Hematic	of Hematic
+of Chipping	of Chipping
+of Crumbling	of Crumbling
+of Breaking	of Breaking
+of Crushing	of Crushing
+of Pulverizing	of Pulverizing
+of Evisceration	of Evisceration
+lethal damage	Deals Lethal Damage
